@@ -37,7 +37,7 @@ This is deliberately pushing the boundaries of what's possible today. Some gener
 
 The first version of Walk Planner was a three-step wizard: Where are you? What are you interested in? How long do you have? It was a standard UX pattern, and it failed. Too much friction, too many taps before anything happened.
 
-The breakthrough was realizing the wizard existed because the app had no context. Claude has context. Version 2 replaced the entire wizard with a single prompt, or no prompt at all. The app knows where you are, it learns what you love, and it nudges you gently when you're 56 meters from a plaque that matches your interests.
+The breakthrough was realizing the wizard existed because the app had no context. Claude has context. Version 2 replaced the entire wizard with a single prompt, or no prompt at all. The app knows where you are, it learns what you love, and it nudges you gently when you're within 50 meters of a plaque that matches your interests.
 
 > "Curating your walk... Finding the perfect stops"
 
