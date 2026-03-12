@@ -3,6 +3,7 @@
 An iOS app that transforms 413 curated English Heritage blue plaques in Central London into personal, AI-curated encounters with the city's history. Built in days with Claude Code and Figma MCP.
 
 It's not information. It's an encounter.
+> This is a showcase repo for a private project. Source code is not public, but a live demo is available on request.
 
 <img width="1200" height="750" alt="discover_mode" src="https://github.com/user-attachments/assets/9879a4cc-e5f8-45fc-99f9-e9d4e92ec2db" />
 
