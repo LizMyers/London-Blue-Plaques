@@ -75,7 +75,7 @@ This is how I think about AI in creative tools: not autonomous, not passive. Col
 
 ---
 
-## See It for Yourself
+## Give it a Go!
 
 Screenshots tell part of the story. To appreciate the sensation of 'meeting' historical figures (and hearing them speak), a live demo is available on request. Get in touch at elizmyers@gmail.com.
 
