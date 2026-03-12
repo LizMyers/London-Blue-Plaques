@@ -45,7 +45,8 @@ One input. One moment of anticipation. Then a fully curated walk with a title, a
 
 We curated the dataset down to 413 plaques in Zone 1, filtering out entries without portraits, outside Central London, or minor figures, to prioritize density and performance. Each plaque was enriched with gender and category data so Claude can intelligently match interests to figures. Ask for "Women who changed London" and the app knows exactly who qualifies and where they are.
 
-<!-- SCREENSHOTS: Plan a Walk prompt + "Curating your walk" loading + walk result with route -->
+<img width="1200" height="750" alt="one_shot_curation" src="https://github.com/user-attachments/assets/19e786c3-b875-4246-92f9-1e8047f6bc14" />
+
 
 ---
 
