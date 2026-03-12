@@ -1,0 +1,87 @@
+# London Blue Plaques
+
+An iOS app that transforms 413 curated English Heritage blue plaques in Central London into personal, AI-curated encounters with the city's history. Built in days with Claude Code and Figma MCP.
+
+It's not information. It's an encounter.
+
+<!-- HERO IMAGE: composite of map + walk result + Russell speaking -->
+
+---
+
+## The Experience
+
+London is full of blue plaques marking where remarkable people once lived and worked. Most people walk right past them. This app changes that.
+
+Tell Claude what interests you, or just say "surprise me," and it curates a walking tour from wherever you're standing. Each stop is framed around your interests: a maths enthusiast gets Turing's theoretical work; a social justice lens gets the persecution and pardon story. The AI doesn't just retrieve information. It edits, frames, and personalizes it for you.
+
+And at select stops, historical figures speak to you directly. Bertrand Russell looks into the camera and says: *"If your machines can learn knowledge, can they learn pity? That is the only question that matters."* These aren't generic audio guides. They're personal encounters that leave a mark.
+
+<!-- SCREENSHOTS: Explore view + proximity nudge + detail page -->
+
+---
+
+## Bringing Figures to Life
+
+Claude scripts what each figure says. Not filler dialogue, but cross-temporal conversations where historical figures address today's biggest questions from their own philosophical perspective. Turing on building minds versus soldiers. Keynes on the anxiety of freedom. Russell on decisions made by something never asked to care.
+
+The cinematographic direction is deliberate: locked-off camera, Arri Alexa Mini aesthetic, BBC documentary colour grade, Kodak 5219 film stock. Claude and I developed the prompts together in Figma Weave (Veo 3), iterating on reference images, scene descriptions, and negative prompts until each generation felt right. Premiere Pro for the final polish.
+
+This is deliberately pushing the boundaries of what's possible today. Some generations are stunning. Some hit the limits of current models. But the experience of a historical figure speaking to you at their own front door is so compelling that the limitations feel temporary. What's a stretch goal now may be routine in 12-18 months.
+
+<!-- SCREENSHOTS: Figma Weave pipeline + Russell video + Mary Shelley video -->
+
+---
+
+## From Wizard to One-Shot
+
+The first version of Walk Planner was a three-step wizard: Where are you? What are you interested in? How long do you have? It was a standard UX pattern, and it failed. Too much friction, too many taps before anything happened.
+
+The breakthrough was realizing the wizard existed because the app had no context. Claude has context. Version 2 replaced the entire wizard with a single prompt, or no prompt at all. The app knows where you are, it learns what you love, and it nudges you gently when you're 56 meters from a plaque that matches your interests.
+
+> "Curating your walk... Finding the perfect stops"
+
+One input. One moment of anticipation. Then a fully curated walk with a title, a narrative, and a route mapped across London.
+
+We curated the dataset down to 413 plaques in Zone 1, filtering out entries without portraits, outside Central London, or minor figures, to prioritize density and performance. Each plaque was enriched with gender and category data so Claude can intelligently match interests to figures. Ask for "Women who changed London" and the app knows exactly who qualifies and where they are.
+
+<!-- SCREENSHOTS: Plan a Walk prompt + "Curating your walk" loading + walk result with route -->
+
+---
+
+## Human + AI Collaboration
+
+Sometimes Claude's routes zig-zag across the map, making a 60-minute walk into a 90-minute one. The order of stops matters as much as the selection, and AI doesn't always get it right.
+
+The solution came from a real collaboration. Claude identified the problem (stop order won't always be optimal). I had the UX instinct (let the user drag and drop the cards). Claude extended the idea (update the map with renumbered stops in real time). Neither of us had the full solution alone.
+
+This is how I think about AI in creative tools: not autonomous, not passive. Collaborative. AI proposes, human refines, the system adapts.
+
+<!-- SCREENSHOTS: walk stop cards with drag handles + map before/after reorder -->
+
+---
+
+## What's Next
+
+**Conversational AI at each stop** — Chat with Claude about any figure from the detail page. Ask why someone's wife doesn't have her own plaque. Ask what Russell thought about AI. Extend the "story" in history.
+
+**Audio-first, eyes-free mode** — A gentle chime and on-device TTS as you walk: *"You're near 2 Warrington Crescent. Alan Turing lived here."* Heads up, earbuds in, immersed in the city. No screen required.
+
+**My Plaques collection** — Every plaque you visit unlocks in your personal collection. Share a card with friends, track your progress, explore themed routes. The "gotta catch 'em all" loop for cultural heritage.
+
+**Cultural data as AI capability** — These plaques aren't app content. They're a structured cultural dataset that becomes exponentially more valuable when exposed as AI capabilities via MCP. This prototype is a proof of concept for how any cultural institution could unlock their collections.
+
+---
+
+## See It for Yourself
+
+Screenshots tell part of the story. To see historical figures speak, feel the proximity nudges, and drag-to-reorder a walk in real time, a live demo is available on request. Get in touch at elizmyers@gmail.com.
+
+---
+
+## Built With
+
+Claude Code · Figma MCP · Figma Weave (Veo 3) · Adobe Premiere Pro · React Native / Expo · TypeScript
+
+---
+
+*Built by [Liz Myers](https://github.com/LizMyers) and Claude. I had the vision. Claude called it "the largest outdoor museum without an audio guide." We built it together.*
