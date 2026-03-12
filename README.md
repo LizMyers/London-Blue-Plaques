@@ -4,7 +4,8 @@ An iOS app that transforms 413 curated English Heritage blue plaques in Central 
 
 It's not information. It's an encounter.
 
-<!-- HERO IMAGE: composite of map + walk result + Russell speaking -->
+<img width="1200" height="750" alt="discover_mode" src="https://github.com/user-attachments/assets/9879a4cc-e5f8-45fc-99f9-e9d4e92ec2db" />
+
 
 ---
 
