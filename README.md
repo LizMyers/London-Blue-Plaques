@@ -65,7 +65,7 @@ This is how I think about AI in creative tools: not autonomous, not passive. Col
 
 ## What's Next
 
-**Conversational AI at each stop** — Chat with Claude about any figure from the detail page. Ask about a figures friends or where they drank a pint. Ask what Turing might have accomplished with AI. Extend the "story" in history.
+**Conversational AI at each stop** — Chat with Claude about any figure from the detail page. Ask about a figure's friends or where they drank a pint. Ask what Turing might have accomplished with AI. Extend the "story" in history.
 
 **Audio-first, eyes-free mode** — A gentle chime and on-device TTS as you walk: *"You're near 2 Warrington Crescent. Alan Turing lived here."* Heads up, earbuds in, glance down and hit the audio button for a brief synopsis about that person.
 
