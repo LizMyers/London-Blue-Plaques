@@ -66,17 +66,17 @@ This is how I think about AI in creative tools: not autonomous, not passive. Col
 
 **Conversational AI at each stop** — Chat with Claude about any figure from the detail page. Ask about a figures friends or where they drank a pint. Ask what Turing might have accomplished with AI. Extend the "story" in history.
 
-**Audio-first, eyes-free mode** — A gentle chime and on-device TTS as you walk: *"You're near 2 Warrington Crescent. Alan Turing lived here."* Heads up, earbuds in, immersed in the city. No screen required.
+**Audio-first, eyes-free mode** — A gentle chime and on-device TTS as you walk: *"You're near 2 Warrington Crescent. Alan Turing lived here."* Heads up, earbuds in, glance down and hit the audio button for a brief synopsis about that person.
 
-**My Plaques collection** — Every plaque you visit unlocks in your personal collection. Share a card with friends, track your progress, explore themed routes. The "gotta catch 'em all" loop for cultural heritage.
+**My Plaques collection** — For collectors around the globe, blue plaques hold intrigue and challenge. Visiting a plaque in person automatically saves it to your collection. Users can share both walks and collected plaques with others. Should English Heritage decide to offer events and competitions, that's possible too.
 
-**Cultural data as AI capability** — These plaques aren't app content. They're a structured cultural dataset that becomes exponentially more valuable when exposed as AI capabilities via MCP. This prototype is a proof of concept for how any cultural institution could unlock their collections.
+**Cultural data as AI capability** — These plaques aren't just app content. They're a structured cultural dataset that becomes exponentially more valuable when exposed as AI capabilities via MCP. This prototype is a proof of concept for how any cultural institution could unlock their collections.
 
 ---
 
 ## See It for Yourself
 
-Screenshots tell part of the story. To see historical figures speak, feel the proximity nudges, and drag-to-reorder a walk in real time, a live demo is available on request. Get in touch at elizmyers@gmail.com.
+Screenshots tell part of the story. To appreciate the sensation of 'meeting' historical figures (and hearing them speak), a live demo is available on request. Get in touch at elizmyers@gmail.com.
 
 ---
 
