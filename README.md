@@ -28,7 +28,7 @@ The cinematographic direction is deliberate: locked-off camera, Arri Alexa Mini 
 
 This is deliberately pushing the boundaries of what's possible today. Some generations are stunning. Some hit the limits of current models. But the experience of a historical figure speaking to you at their own front door is so compelling that the limitations feel temporary. What's a stretch goal now may be routine in 12-18 months.
 
-<!-- SCREENSHOTS: Figma Weave pipeline + Russell video + Mary Shelley video -->
+<img width="1200" height="914" alt="figmaWeave_Russell" src="https://github.com/user-attachments/assets/c41a0e5b-fce3-4df2-89b2-d2827d1c4f42" />
 
 ---
 
