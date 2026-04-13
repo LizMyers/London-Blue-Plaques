@@ -14,7 +14,7 @@ It's not information. It's an encounter.
 
 London is full of blue plaques marking where remarkable people once lived and worked. Most people walk right past them. This app changes that.
 
-Tell Claude what interests you, or just say "surprise me," and it curates a walking tour from wherever you're standing. Each stop is framed around your interests: a maths enthusiast gets Turing's theoretical work; a social justice lens gets the persecution and pardon story. The AI doesn't just retrieve information. It edits, frames, and personalizes it for you.
+Tell your AI what interests you, or just say "surprise me," and it curates a walking tour from wherever you're standing. Each stop is framed around your interests: a maths enthusiast gets Turing's theoretical work; a social justice lens gets the persecution and pardon story. The AI doesn't just retrieve information. It edits, frames, and personalizes it for you.
 
 And at select stops, historical figures speak to you directly. Bertrand Russell looks into the camera and says: *"If your machines can learn knowledge, can they learn pity? That is the only question that matters."* These aren't generic audio guides. They're personal encounters that leave a mark.
 
@@ -24,7 +24,7 @@ And at select stops, historical figures speak to you directly. Bertrand Russell 
 
 ## Bringing Figures to Life
 
-Claude scripts what each figure says. Not filler dialogue, but cross-temporal conversations where historical figures address today's biggest questions from their own philosophical perspective. Turing on building minds versus soldiers. Keynes on the anxiety of freedom. Russell on decisions made by something never asked to care.
+AI scripts what each figure says. Not filler dialogue, but cross-temporal conversations where historical figures address today's biggest questions from their own philosophical perspective. Turing on building minds versus soldiers. Keynes on the anxiety of freedom. Russell on decisions made by something never asked to care.
 
 The cinematographic direction is deliberate: locked-off camera, Arri Alexa Mini aesthetic, BBC documentary colour grade, Kodak 5219 film stock. Claude and I developed the prompts together in Figma Weave (Veo 3), iterating on reference images, scene descriptions, and negative prompts until each generation felt right. Premiere Pro for the final polish.
 
@@ -38,13 +38,13 @@ This is deliberately pushing the boundaries of what's possible today. Some gener
 
 The first version of Walk Planner was a three-step wizard: Where are you? What are you interested in? How long do you have? It was a standard UX pattern, and it failed. Too much friction, too many taps before anything happened.
 
-The breakthrough was realizing the wizard existed because the app had no context. Claude has context. Version 2 replaced the entire wizard with a single prompt, or no prompt at all. The app knows where you are, it learns what you love, and it nudges you gently when you're within 50 meters of a plaque that matches your interests.
+The breakthrough was realizing the wizard existed because the app had no context. Your AI has context. Version 2 replaced the entire wizard with a single prompt, or no prompt at all. The app knows where you are, it learns what you love, and it nudges you gently when you're within 50 meters of a plaque that matches your interests.
 
 > "Curating your walk... Finding the perfect stops"
 
 One input. One moment of anticipation. Then a fully curated walk with a title, a narrative, and a route mapped across London.
 
-We curated the dataset down to 413 plaques in Zone 1, filtering out entries without portraits, outside Central London, or minor figures, to prioritize density and performance. Each plaque was enriched with gender and category data so Claude can intelligently match interests to figures. Ask for "Women who changed London" and the app knows exactly who qualifies and where they are.
+We curated the dataset down to 413 plaques in Zone 1, filtering out entries without portraits, outside Central London, or minor figures, to prioritize density and performance. Each plaque was enriched with gender and category data so your AI can intelligently match interests to figures. Ask for "Women who changed London" and the app knows exactly who qualifies and where they are.
 
 <img width="1200" height="750" alt="one_shot_curation" src="https://github.com/user-attachments/assets/19e786c3-b875-4246-92f9-1e8047f6bc14" />
 
@@ -53,9 +53,9 @@ We curated the dataset down to 413 plaques in Zone 1, filtering out entries with
 
 ## Human + AI Collaboration
 
-Sometimes Claude's routes zig-zag across the map, making a 60-minute walk into a 90-minute one. The order of stops matters as much as the selection, and AI doesn't always get it right.
+Sometimes your AI's routes zig-zag across the map, making a 60-minute walk into a 90-minute one. The order of stops matters as much as the selection, and AI doesn't always get it right.
 
-The solution came from a real collaboration. Claude identified the problem (stop order won't always be optimal). I had the UX instinct (let the user drag and drop the cards). Claude extended the idea (update the map with renumbered stops in real time). Neither of us had the full solution alone.
+The solution came from a real collaboration. Your AI identified the problem (stop order won't always be optimal). I had the UX instinct (let the user drag and drop the cards). My AI extended the idea (update the map with renumbered stops in real time). Neither of us had the full solution alone.
 
 This is how I think about AI in creative tools: not autonomous, not passive. Collaborative. AI proposes, human refines, the system adapts.
 
@@ -65,7 +65,7 @@ This is how I think about AI in creative tools: not autonomous, not passive. Col
 
 ## What's Next
 
-**Conversational AI at each stop** — Chat with Claude about any figure from the detail page. Ask about a figure's friends or where they drank a pint. Ask what Turing might have accomplished with AI. Extend the "story" in history.
+**Conversational AI at each stop** — Chat with your AI about any figure from the detail page. Ask about a figure's friends or where they drank a pint. Ask what Turing might have accomplished with AI. Extend the "story" in history.
 
 **Audio-first, eyes-free mode** — A gentle chime and on-device TTS as you walk: *"You're near 2 Warrington Crescent. Alan Turing lived here."* Heads up, earbuds in, glance down and hit the audio button for a brief synopsis about that person.
 
@@ -83,7 +83,7 @@ Screenshots tell part of the story. To appreciate the sensation of 'meeting' his
 
 ## Built With
 
-Claude Code · Figma MCP · Figma Weave (Veo 3) · Adobe Premiere Pro · React Native / Expo · TypeScript
+Claude Code · Figma MCP · Figma Weave (Veo 3) · Adobe Premiere Pro · React Native / Expo · TypeScript, Gemini API, OpenAI API, Claude API.
 
 ---
 
