@@ -1,6 +1,6 @@
 # London Blue Plaques
 
-An iOS app that transforms 413 curated English Heritage blue plaques in Central London into personal, AI-curated encounters with the city's history. Built in days with Claude Code and Figma MCP.
+An iOS app that transforms 800+ curated English Heritage blue plaques in Central London into personal, AI-curated encounters with the city's history. Built in days with Claude Code and Figma MCP.
 
 It's not information. It's an encounter.
 > This is a showcase repo for a private project. Source code is not public, but a live demo is available on request.
