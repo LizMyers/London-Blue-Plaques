@@ -44,7 +44,7 @@ The breakthrough was realizing the wizard existed because the app had no context
 
 One input. One moment of anticipation. Then a fully curated walk with a title, a narrative, and a route mapped across London.
 
-We curated the dataset down to 837 plaques in Zone 1, filtering out entries without portraits, outside Central London, or minor figures, to prioritize density and performance. Each plaque was enriched with gender and category data so your AI can intelligently match interests to figures. Ask for "Women who changed London" and the app knows exactly who qualifies and where they are.
+We curated the dataset down to 837 plaques in Zone 1 & 2, filtering out entries without portraits, outside Central London, or minor figures, to prioritize density and performance. Each plaque was enriched with gender and category data so your AI can intelligently match interests to figures. Ask for "Women who changed London" and the app knows exactly who qualifies and where they are.
 
 <img width="1200" height="750" alt="one_shot_curation" src="https://github.com/user-attachments/assets/19e786c3-b875-4246-92f9-1e8047f6bc14" />
 
