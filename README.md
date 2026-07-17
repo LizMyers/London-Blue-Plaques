@@ -78,7 +78,7 @@ This is how I think about AI in creative tools: not autonomous, not passive. Col
 ## Give it a Go!
 
 Now available on the App Store (https://apps.apple.com/us/app/londonlore/id6766956751). Android version coming soon!
----
+
 
 ## Built With
 
